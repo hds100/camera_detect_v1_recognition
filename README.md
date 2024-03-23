@@ -1,6 +1,6 @@
 <div align="center">
 
-# Camera_detect_v1 👁
+# Camera_detect_v1 👁 [◉°]
 
 </div>
 
